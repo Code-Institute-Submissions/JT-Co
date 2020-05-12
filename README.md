@@ -5,9 +5,7 @@
 <p>JT & Co is a thriving property development and maintenance company based in London. With his permission, I was able to take all the information he had provided to design a modern website to match his contemporary business. He and I had similar ideas where the customer could access the site and have no difficulties seeing what work he produces and how to get in touch with a click of a button.</p>
 Attached is a photograph sent by JT & Co on the leaflets he hands out. 
 
-![leaflet](https://github.com/gilbs4/JT-Co/blob/master/documents/images/leaflet-front.JPG)
-
-<img src="https://github.com/gilbs4/JT-Co/blob/master/documents/images/leaflet-front.JPG" width="100" height="100">
+<img src="https://github.com/gilbs4/JT-Co/blob/master/documents/images/leaflet-front.JPG" width="200" height="200">
 
 <p>Shown in the photograph of JT & Co’s leaflet, a simple yet tasteful colour scheme is noticeable. It’s not too overwhelming on the eyes nor does it lack attention to detail. I wanted to keep the colour scheme of yellow and grey consistent for customers to recognise his branding. The site also included his logo, however rather than positioning it at the centre, it’s to the left of the page.</p>
 <p>My main goal with this is to support local businesses like JT & Co. I think the personal text at the bottom about having a cup of tea shows how customer orientated they are. I wanted the site to be manageable for customers who are looking for a range of jobs from flooring to rebuilding a bathroom. JT & Co sent a range images of their portfolio to include on the site.</P>
