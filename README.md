@@ -7,6 +7,8 @@ Attached is a photograph sent by JT & Co on the leaflets he hands out.
 
 ![leaflet](https://github.com/gilbs4/JT-Co/blob/master/documents/images/leaflet-front.JPG)
 
+<img src="https://github.com/gilbs4/JT-Co/blob/master/documents/images/leaflet-front.JPG" width="100" height="100">
+
 <p>Shown in the photograph of JT & Co’s leaflet, a simple yet tasteful colour scheme is noticeable. It’s not too overwhelming on the eyes nor does it lack attention to detail. I wanted to keep the colour scheme of yellow and grey consistent for customers to recognise his branding. The site also included his logo, however rather than positioning it at the centre, it’s to the left of the page.</p>
 <p>My main goal with this is to support local businesses like JT & Co. I think the personal text at the bottom about having a cup of tea shows how customer orientated they are. I wanted the site to be manageable for customers who are looking for a range of jobs from flooring to rebuilding a bathroom. JT & Co sent a range images of their portfolio to include on the site.</P>
 <p>Like the company, the features of the website are all simple yet tasteful with easy to understand concepts such as icons, no overwhelming paragraphs of text and imagery. The home section was to give a brief summary of what JT & Co can do. I decided that by including icons, this was a successful way to make the website break down a lot of text and signify what work they can produce. A very brief summary of what the company can do is included beneath the icons to make the site more streamlines and easier to read. The colour of the text was taken strongly into consideration as I wanted to swap the colours from block to text.</p>
