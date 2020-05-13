@@ -39,6 +39,16 @@ There are a few features I wanted to implement however once I learn more about j
 ## Technologies Used
 ***
 
+Here's a short summary of the technoligies i used and what they were used for.
+
+-https://getbootstrap.com/
+
+Bootstrap was used to help format the whole site. It was used for grids from the galley photos to the layout of the header and footer
+
+-https://fontawesome.com/
+
+I ised font awesome for the excellent icons and for the different fonts that i used throughout my site
+
 ## Testing
 ***
 
@@ -46,13 +56,20 @@ There are a few features I wanted to implement however once I learn more about j
 ***
 
 ## Credits
-***
-### Content
 
+### Content
+"All aspects of maintenance carried out, lets love your home together. Contact today, we will pop round and have a brew and give you a quote". This is a direct quote on the bottom of jt's leaflet. i used this as i think it really shows off a family friendly value that Jt insists his buisness is based upon
+
+href="mailto:jtbodkin@outlook.com?Subject=Hello%20again" target="_top"
+Source: https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html
 
 ### Media
+All the photos from this site where supplied by JT himself with consent from himself and his company
 
 ### Acknowledgements
+I recieved inspiration from the previous project "Putting it all together, Mini project with Bootstrap 4".
+
+I recieved inspiration from w3docs on how to create the malito link
 
 
 
