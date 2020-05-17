@@ -93,6 +93,7 @@ To deploy this page to GitHub Pages from the https://github.com/gilbs4/JT-Co the
 
 7.Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
 
+When submitting my Milestone Project the Master Branch is also the Development Branch.
 
 ## Credits
 
