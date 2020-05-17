@@ -13,6 +13,8 @@ Shown in the photograph of JT & Co’s leaflet, a simple yet tasteful colour sch
 
 My main goal with this is to support local businesses like JT & Co. I think the personal text at the bottom about having a cup of tea shows how customer orientated they are. I wanted the site to be manageable for customers who are looking for a range of jobs from flooring to rebuilding a bathroom. JT & Co sent a range images of their portfolio to include on the site.
 
+I want to create the site to be as user friendly as possible but not too complicated for customers. i want to create a site where customers can easily get the information they want and contact JT. As i mentioned before the main focs is to gain JT aditional buisness and thats the main aim of this site.
+
 *Attached is a photograph sent by JT & Co on the leaflets he hands out*
 <img src="https://github.com/gilbs4/JT-Co/blob/master/documents/images/leaflet-front.JPG" width="200" height="200">
 
@@ -47,10 +49,22 @@ Bootstrap was used to help format the whole site. It was used for grids from the
 
 -https://fontawesome.com/
 
-I ised font awesome for the excellent icons and for the different fonts that i used throughout my site
+I used font awesome for the excellent icons and for the different fonts that i used throughout my site
 
 ## Testing
 ***
+As i stated in the UX, i wanted to make this website as user friendly as possible and easy for customers to follow. i feel i have done this and made thr site easy to follow and nice to work with.
+
+I created a simple layout for the navigation on the site. i wanted 3 easy, simple headings to the page; Home, Gallery and Contact. The navigation is simple to follow. Each heading will take you to the corresponding page. And I tried to use nice simople icons with this to make it flow nicely and seem more familiar to the user.
+
+On the header for each page it also shows the buisness emal and phone number. I made the email address a link so that once you click on it, it takes you straight to your emails. I did this using the Malito link. if you click on it then it would take you to your own emails and a ready to send email for Jt would be there, and any additional information ready to be inputted.
+
+On the Gallery page it has photographs of Jts work and showcases them all neatly into 5 seperate headings. I created each image so that it can be enlarged when clicked on, and it will also take you to a new tab on you browser so you dont loose the main site. This is important as you dont want the customer to loose the company site and maybe look elsewear.
+
+On the contact page i made "How can we help?" section. In this section i made a form. In this form i added "contact name, email address. phone number and a breif description of what they would like done". Each section has to be filled out before the form can be submitted. If any of these are not filled out it will come up with an error asking the field to be filled out before it can be submitted. i have added a submit my quote button that would 
+
+on the footer section it has links to many social media accounts. Facebook, Instagram, Twitter, Youtube, Pinterest and Linked-in. Now as JT hasnt actually got any social media for hsi company. This is because hes a relatively new company, so what i did was i made all the social media links go to the home page. They do the same as on the Gallery, and that they take you to a sperate page and dont loose the main site. 
+
 
 ## Deployment
 ***
