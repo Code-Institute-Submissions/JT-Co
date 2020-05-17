@@ -43,6 +43,8 @@ There are a few features I wanted to implement however once I learn more about j
 
 Here's a short summary of the technoligies i used and what they were used for.
 
+-This project uses HTML and CSS programming languages
+
 -https://getbootstrap.com/
 
 Bootstrap was used to help format the whole site. It was used for grids from the galley photos to the layout of the header and footer
@@ -50,6 +52,11 @@ Bootstrap was used to help format the whole site. It was used for grids from the
 -https://fontawesome.com/
 
 I used font awesome for the excellent icons and for the different fonts that i used throughout my site
+
+-https://validator.w3.org/
+
+This project used the HTML Validator to check all coding 
+
 
 ## Testing
 ***
@@ -68,6 +75,7 @@ The footer section has links to many social media accounts. Facebook, Instagram,
 
 ## Deployment
 ***
+
 
 ## Credits
 
