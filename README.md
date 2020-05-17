@@ -75,7 +75,12 @@ The footer section has links to many social media accounts. Facebook, Instagram,
 
 ## Deployment
 ***
+This page was created on GITpod and then pushed onto GIThub.
 
+To deploy this page to GitHub Pages from the https://github.com/gilbs4/JT-Co the following steps were taken:
+
+1. Log into Github
+2.
 
 ## Credits
 
