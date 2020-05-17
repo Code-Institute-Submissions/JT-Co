@@ -63,7 +63,7 @@ On the Gallery page it has photographs of Jts work and showcases them all neatly
 
 On the contact page i made "How can we help?" section. In this section i made a form. In this form i added "contact name, email address. phone number and a breif description of what they would like done". Each section has to be filled out before the form can be submitted. If any of these are not filled out it will come up with an error asking the field to be filled out before it can be submitted. i have added a submit my quote button that would 
 
-on the footer section it has links to many social media accounts. Facebook, Instagram, Twitter, Youtube, Pinterest and Linked-in. Now as JT hasnt actually got any social media for hsi company. This is because hes a relatively new company, so what i did was i made all the social media links go to the home page. They do the same as on the Gallery, and that they take you to a sperate page and dont loose the main site. 
+The footer section has links to many social media accounts. Facebook, Instagram, Twitter, Youtube, Pinterest and Linked-in. Now as JT hasnt actually got any social media for hsi company. This is because hes a relatively new company, so what i did was i made all the social media links go to the home page. They do the same as on the Gallery, and that they take you to a sperate page and dont loose the main site. 
 
 
 ## Deployment
