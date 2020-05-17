@@ -80,12 +80,19 @@ This page was created on GITpod and then pushed onto GIThub.
 To deploy this page to GitHub Pages from the https://github.com/gilbs4/JT-Co the following steps were taken:
 
 1. Log into Github
+
 2. From the list of repositories on the screen, select **gilbs4/JT-Co**
+
 3.From the menu items near the top of the page, select Settings.
+
 4.Scroll down to the GitHub Pages section.
+
 5.Under Source click the drop-down menu labelled None and select Master Branch
+
 6.On selecting Master Branch the page is automatically refreshed, the website is now deployed.
+
 7.Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
+
 
 ## Credits
 
