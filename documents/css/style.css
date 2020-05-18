@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Raleway:100,200,300,400,500,600,700');
 
+
 /*----------Colours*/
 
 .bg-color-name-title {
@@ -13,6 +14,7 @@
 .ui-menu-color-home{
     background-color: #676767;
 }
+
 
 .ui-menu-color-gallery{
     background-color: #676767;
@@ -40,6 +42,7 @@ h1,h2,h3,h4,{
     margin: 0;
     font-family: "Raleway", sans-serif;
 }
+
 h1{
     font-size: 25px;
     color: rgb(224, 161, 44);
@@ -133,7 +136,7 @@ a:hover{
 .title {
     font-family: "Raleway", sans-serif;
     font-weight: 400;
-    font-size: 70px;
+    font-size: 60px;
     margin-top: 20px;
     margin-bottom: 30px;
     color:#676767;
@@ -177,6 +180,7 @@ a:hover{
     font-size: 35px;
 }
 
+
 .menuitem span{
     display: block;
     width:100%;
@@ -187,6 +191,16 @@ a:hover{
     font-weight: 300;
     letter-spacing: 3px;
 }
+
+.current-page a {
+    color: #fff;
+}
+
+.current-page a i {
+    color: #fff;
+}
+
+
 
 .section-column {
     display: table-cell;
@@ -240,7 +254,7 @@ a:hover{
 /*----------Hover*/
 
 
-.hvr-sweep-to-top::before {
+.hvr-sweep-to-top:before {
     background-color: rgba(224, 210, 190, 0.4);
     height: 120px;
 }
@@ -249,6 +263,9 @@ a:hover{
      background-color: rgba(224, 210, 190, 0.4);
 }
 
+.current-page .hvr-sweep-to-top:hover {
+    color: rgb(224, 161, 44);
+}
 
 /*----------Footer*/
 
@@ -291,7 +308,7 @@ footer{
     
 }
 
-button[type="button"] {
+button[type="submit"] {
     margin-top: 15px;
     text-transform: uppercase;
     font-size: 30px;
@@ -379,7 +396,4 @@ img:hover {
         margin: 0;
         max-height: 50vh;
     }
-}
-.container-fluid {
-    padding: 0px;
 }
