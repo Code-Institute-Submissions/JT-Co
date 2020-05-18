@@ -112,7 +112,10 @@ I recieved inspiration from the previous project "Putting it all together, Mini 
 I recieved inspiration from w3docs on how to create the malito link
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9e328b5d8f1cbd93f8ec92a4d4bd4aff32a754d5
 
 
 
